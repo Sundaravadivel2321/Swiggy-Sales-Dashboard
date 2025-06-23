@@ -22,10 +22,10 @@ This dashboard analyzes simulated Swiggy food delivery sales. It includes KPIs l
 - Conditional formatting for performance classification
 
 ## Dashboard Previews
-Screenshots available in `/Screenshots/`
+Screenshots available in main file
 
 ## Report
-See full internship report in `/Report/Internship_Final_Report.pdf`
+See full internship report in 'Project REPORT'
 
 ## Author
 Sundara Vadivel G  
